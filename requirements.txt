@@ -1,0 +1,8 @@
+pandas
+openpyxl
+httpx
+requests
+google-generativeai
+typing-extensions
+python-dotenv
+tqdm
